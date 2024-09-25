@@ -150,13 +150,6 @@ donetNowButtonthird.addEventListener('click', function(event) {
     
 });
 
-
-
-
-
-
-
-
 // History button Clicked
 const historyButton = document.getElementById('history-btn');
 historyButton.addEventListener('click', function() {
